@@ -4,6 +4,10 @@ This is the repo for Digital Ink recognizer. This along with AndServer combine t
 
 This works in conjunction with the app at [github.com/iakashpaul/radioboard-backend](github.com/iakashpaul/radioboard-backend) to allow multiple users to work on an intelligent whiteboard simulatneously.
 
+### Frontend- Teams addon 
+
+* The code is hosted on this repo [github.com/iakashpaul/radioboard-frontend](github.com/iakashpaul/radioboard-frontend)
+
 
 ## Demo videos
 
