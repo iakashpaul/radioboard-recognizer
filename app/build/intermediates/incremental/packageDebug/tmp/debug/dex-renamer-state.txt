@@ -1,0 +1,7 @@
+#Mon Sep 07 13:32:24 IST 2020
+base.0=/Users/akashpaul/Downloads/axis/toll-rx/android-app/mlkit-master/android/digitalink/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/akashpaul/Downloads/axis/toll-rx/android-app/mlkit-master/android/digitalink/app/build/intermediates/dex/debug/mergeDexDebug/classes2.dex

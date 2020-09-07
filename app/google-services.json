@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "600740862646",
+    "firebase_url": "https://ocr-webserver.firebaseio.com",
+    "project_id": "ocr-webserver",
+    "storage_bucket": "ocr-webserver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600740862646:android:ad9fc4ad725bbf0980e417",
+        "android_client_info": {
+          "package_name": "com.google.mlkit.samples.vision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600740862646-9m5l7smcfr3pf8knh55nn4hdlve7c934.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNS4FKYiBgB7hUU5tTTDqbWRQN6S_HkDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600740862646-9m5l7smcfr3pf8knh55nn4hdlve7c934.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

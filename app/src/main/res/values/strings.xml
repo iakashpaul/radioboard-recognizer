@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">EY Radio Hackathon Akash</string>
+    <string name="title_activity_main" translatable="false">EY Radio Akash | HardToSpell</string>
+    <string name="clear">Clear Sketch</string>
+</resources>
